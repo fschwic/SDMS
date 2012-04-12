@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" measuredW="828" measuredH="630" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="28" y="30" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SimpleDMS%0Ahttp%3A//dev.escidoc.org/sdms</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="36" y="135" w="783" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="36" y="100" w="-1" h="-1" measuredW="135" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>SimpleDMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="215" y="222" w="-1" h="-1" measuredW="262" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20are%20not%20logged%20in.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="215" y="262" w="-1" h="-1" measuredW="342" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20log%20in%20with%20your%20OpenID%20or%20create%20an%20account.</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="215" y="313" w="342" h="32" measuredW="342" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Root%26bm%3BRoot.bmml%26bm%3BRoot.bmml%26bm%3BRoot.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22187%2C283%2C529%2C315%22%20href%3D%22Root.bmml%22%20alt%3D%22Root%22%20id%3D%229%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="38" y="2" w="244" h="-1" measuredW="92" measuredH="29" zOrder="0" locked="false" isInGroup="9">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <bold>false</bold>
+            <state>up</state>
+            <text>Your%20OpenID</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="282" y="3" w="-1" h="-1" measuredW="60" measuredH="28" zOrder="2" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>Log%20in</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="9">
+          <controlProperties>
+            <icon>OpenIDIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="377" y="359" w="-1" h="-1" measuredW="18" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>or</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="316" y="399" w="-1" h="-1" measuredW="139" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20an%20account</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
