@@ -6,20 +6,20 @@
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="36" y="135" w="783" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="36" y="100" w="-1" h="-1" measuredW="125" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="36" y="100" w="-1" h="-1" measuredW="135" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
         <text>SimpleDMS</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="589" y="110" w="-1" h="-1" measuredW="211" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="589" y="110" w="-1" h="-1" measuredW="230" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2CStart%26bm%3BStart.bmml%26bm%3BStart.bmml%26bm%3BStart.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22727%2C80%2C772%2C101%22%20href%3D%22Start.bmml%22%20alt%3D%22Start%22%20id%3D%224_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22746%2C80%2C791%2C105%22%20href%3D%22Start.bmml%22%20alt%3D%22Start%22%20id%3D%224_0%22/%3E%0A</map>
         <text>frank.schwichtenberg.net%2C%20Logout</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="36" y="140" w="-1" h="-1" measuredW="265" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="36" y="140" w="-1" h="-1" measuredW="292" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Workspace%20of%20Frank%20Schwichtenberg</text>
@@ -39,7 +39,7 @@
       <controlProperties>
         <color>14803425</color>
         <hrefs>%2C%2CFile-1%26bm%3BFile-1.bmml%26bm%3BFile-1.bmml%26bm%3BFile-1.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C277%2C782%2C307%22%20href%3D%22File-1.bmml%22%20alt%3D%22File-1%22%20id%3D%2214_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C275%2C782%2C305%22%20href%3D%22File-1.bmml%22%20alt%3D%22File-1%22%20id%3D%2214_0%22/%3E%0A</map>
         <rowHeight>30</rowHeight>
         <text>%20%20%20%20Folder%0A%20%20%20%20Folder%0A%20%20%20%20My%20File%20%231</text>
       </controlProperties>
@@ -192,7 +192,9 @@
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="1">
               <controlProperties>
                 <borderStyle>square</borderStyle>
+                <href>Folder-1_add-folder%26bm%3BFolder-1_add-folder.bmml%26bm%3BFolder-1_add-folder.bmml%26bm%3BFolder-1_add-folder.bmml</href>
                 <icon>AddPageIcon%7Csmall</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22642%2C187%2C666%2C211%22%20href%3D%22Folder-1_add-folder.bmml%22%20alt%3D%22Folder-1_add-folder%22%20id%3D%221%22/%3E</map>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
