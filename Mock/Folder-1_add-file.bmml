@@ -1,0 +1,243 @@
+<mockup version="1.0" skin="sketch" measuredW="828" measuredH="630" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="28" y="30" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SimpleDMS%0Ahttp%3A//dev.escidoc.org/sdms/frank.schwichtenberg.net/Folder+1</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="36" y="135" w="783" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="36" y="100" w="-1" h="-1" measuredW="135" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>SimpleDMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="589" y="110" w="-1" h="-1" measuredW="230" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CStart%26bm%3BStart.bmml%26bm%3BStart.bmml%26bm%3BStart.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22746%2C80%2C791%2C105%22%20href%3D%22Start.bmml%22%20alt%3D%22Start%22%20id%3D%224_0%22/%3E%0A</map>
+        <text>frank.schwichtenberg.net%2C%20Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="36" y="140" w="-1" h="-1" measuredW="292" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Workspace%20of%20Frank%20Schwichtenberg</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="36" y="167" w="200" h="17" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%3A%20escidoc%3A352</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::FieldSet" x="36" y="199" w="783" h="401" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Folder%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::List" x="43" y="245" w="767" h="95" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14803425</color>
+        <hrefs>%2C%2CFile-1%26bm%3BFile-1.bmml%26bm%3BFile-1.bmml%26bm%3BFile-1.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C275%2C782%2C305%22%20href%3D%22File-1.bmml%22%20alt%3D%22File-1%22%20id%3D%2214_0%22/%3E%0A</map>
+        <rowHeight>30</rowHeight>
+        <text>%20%20%20%20Folder%0A%20%20%20%20Folder%0A%20%20%20%20My%20File%20%231</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="47" y="248" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FolderClosed%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="709" y="250" w="96" h="24" measuredW="96" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>PencilIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>TrashIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>DownloadIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="72" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="16">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>UsersIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="709" y="278" w="96" h="24" measuredW="96" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>PencilIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>TrashIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>DownloadIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="72" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="17">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>UsersIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="709" y="308" w="96" h="24" measuredW="96" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>PencilIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>TrashIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>DownloadIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="72" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="18">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <icon>UsersIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="47" y="276" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FolderClosed%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Icon" x="47" y="306" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FileIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Paragraph" x="43" y="220" w="597" h="18" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>ID%3A%20escidoc%3A485%20%7C%20Modified%20on%2012.4.2012%20at%2018%3A02</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="__group__" x="646" y="217" w="159" h="24" measuredW="159" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="63" y="0" w="96" h="24" measuredW="96" measuredH="24" zOrder="0" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <icon>PencilIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <icon>TrashIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <icon>DownloadIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="72" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <icon>UsersIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="48" h="24" measuredW="48" measuredH="24" zOrder="1" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <href>Root%26bm%3BRoot.bmml%26bm%3BRoot.bmml%26bm%3BRoot.bmml</href>
+                <icon>JumpBackIcon%7Csmall</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22618%2C187%2C642%2C211%22%20href%3D%22Root.bmml%22%20alt%3D%22Root%22%20id%3D%220%22/%3E</map>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <icon>AddPageIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TitleWindow" x="140" y="230" w="569" h="159" measuredW="450" measuredH="400" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Resource</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="147" y="256" w="-1" h="-1" measuredW="143" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CFolder-1_add-folder%26bm%3BFolder-1_add-folder.bmml%26bm%3BFolder-1_add-folder.bmml%26bm%3BFolder-1_add-folder.bmml%2CFolder-1_add-page%26bm%3BFolder-1_add-page.bmml%26bm%3BFolder-1_add-page.bmml%26bm%3BFolder-1_add-page.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C251%2C262%2C276%22%20href%3D%22Folder-1_add-folder.bmml%22%20alt%3D%22Folder-1_add-folder%22%20id%3D%2229_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C276%2C262%2C301%22%20href%3D%22Folder-1_add-page.bmml%22%20alt%3D%22Folder-1_add-page%22%20id%3D%2229_1%22/%3E%0A</map>
+        <text>Select%20Resource%20Type%0A%28%20%29%20Folder%0A%28%20%29%20Page%0A%28o%29%20File</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="290" y="259" w="-1" h="-1" measuredW="5" measuredH="100" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextInput" x="303" y="281" w="396" h="-1" measuredW="79" measuredH="29" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="303" y="256" w="396" h="25" measuredW="129" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%20Name%20%28optional%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="633" y="316" w="-1" h="-1" measuredW="66" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Folder-1%26bm%3BFolder-1.bmml%26bm%3BFolder-1.bmml%26bm%3BFolder-1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22605%2C286%2C671%2C314%22%20href%3D%22Folder-1.bmml%22%20alt%3D%22Folder-1%22%20id%3D%2233%22/%3E</map>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="303" y="316" w="-1" h="-1" measuredW="105" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20a%20file</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="408" y="315" w="223" h="-1" measuredW="79" measuredH="29" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
