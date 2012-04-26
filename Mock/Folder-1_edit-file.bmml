@@ -201,32 +201,41 @@
     </control>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::TitleWindow" x="140" y="230" w="569" h="159" measuredW="450" measuredH="400" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Add%20Resource</text>
+        <text>Edit%20Resource</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="147" y="256" w="-1" h="-1" measuredW="135" measuredH="84" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2CFolder-1_add-folder%26bm%3BFolder-1_add-folder.bmml%26bm%3BFolder-1_add-folder.bmml%26bm%3BFolder-1_add-folder.bmml%2C%2CFolder-1_add-file%26bm%3BFolder-1_add-file.bmml%26bm%3BFolder-1_add-file.bmml%26bm%3BFolder-1_add-file.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C247%2C254%2C268%22%20href%3D%22Folder-1_add-folder.bmml%22%20alt%3D%22Folder-1_add-folder%22%20id%3D%2229_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C289%2C254%2C310%22%20href%3D%22Folder-1_add-file.bmml%22%20alt%3D%22Folder-1_add-file%22%20id%3D%2229_1%22/%3E%0A</map>
-        <text>Select%20Resource%20Type%0A%28%20%29%20Folder%0A%28o%29%20Page%0A%28%20%29%20File</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C247%2C254%2C268%22%20href%3D%22Folder-1_add-folder.bmml%22%20alt%3D%22Folder-1_add-folder%22%20id%3D%2229_0%22/%3E%0A</map>
+        <text>Select%20Resource%20Type%0A-%28%20%29%20Folder-%0A-%28%20%29%20Page-%0A-%28o%29%20File-</text>
       </controlProperties>
     </control>
     <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="290" y="259" w="-1" h="-1" measuredW="5" measuredH="100" zOrder="18" locked="false" isInGroup="-1"/>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextInput" x="303" y="281" w="396" h="-1" measuredW="79" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextInput" x="303" y="281" w="396" h="-1" measuredW="71" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <text/>
+        <text>My%20File%20%231</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="303" y="256" w="396" h="25" measuredW="65" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="303" y="256" w="396" h="25" measuredW="120" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Page%20Title</text>
+        <text>File%20Name%20%28optional%29</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="650" y="335" w="-1" h="-1" measuredW="43" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="633" y="316" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Folder-1%26bm%3BFolder-1.bmml%26bm%3BFolder-1.bmml%26bm%3BFolder-1.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22622%2C305%2C665%2C332%22%20href%3D%22Folder-1.bmml%22%20alt%3D%22Folder-1%22%20id%3D%2233%22/%3E</map>
-        <text>OK</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22605%2C286%2C668%2C313%22%20href%3D%22Folder-1.bmml%22%20alt%3D%22Folder-1%22%20id%3D%2233%22/%3E</map>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="303" y="316" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20a%20file</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="408" y="315" w="223" h="-1" measuredW="79" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
       </controlProperties>
     </control>
   </controls>

@@ -6,20 +6,20 @@
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="36" y="135" w="783" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="36" y="100" w="-1" h="-1" measuredW="135" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="36" y="100" w="-1" h="-1" measuredW="125" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
         <text>SimpleDMS</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="589" y="110" w="-1" h="-1" measuredW="230" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="589" y="110" w="-1" h="-1" measuredW="211" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2CStart%26bm%3BStart.bmml%26bm%3BStart.bmml%26bm%3BStart.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22746%2C80%2C791%2C105%22%20href%3D%22Start.bmml%22%20alt%3D%22Start%22%20id%3D%224_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22727%2C80%2C772%2C101%22%20href%3D%22Start.bmml%22%20alt%3D%22Start%22%20id%3D%224_0%22/%3E%0A</map>
         <text>frank.schwichtenberg.net%2C%20Logout</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="36" y="140" w="-1" h="-1" measuredW="292" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="36" y="140" w="-1" h="-1" measuredW="265" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Workspace%20of%20Frank%20Schwichtenberg</text>
@@ -39,7 +39,7 @@
       <controlProperties>
         <color>14803425</color>
         <hrefs>%2C%2CFile-1%26bm%3BFile-1.bmml%26bm%3BFile-1.bmml%26bm%3BFile-1.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C275%2C782%2C305%22%20href%3D%22File-1.bmml%22%20alt%3D%22File-1%22%20id%3D%2214_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C277%2C782%2C307%22%20href%3D%22File-1.bmml%22%20alt%3D%22File-1%22%20id%3D%2214_0%22/%3E%0A</map>
         <rowHeight>30</rowHeight>
         <text>%20%20%20%20Folder%0A%20%20%20%20Folder%0A%20%20%20%20My%20File%20%231</text>
       </controlProperties>
@@ -204,29 +204,29 @@
         <text>Add%20Resource</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="147" y="256" w="-1" h="-1" measuredW="143" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="147" y="256" w="-1" h="-1" measuredW="135" measuredH="84" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2CFolder-1_add-page%26bm%3BFolder-1_add-page.bmml%26bm%3BFolder-1_add-page.bmml%26bm%3BFolder-1_add-page.bmml%2CFolder-1_add-file%26bm%3BFolder-1_add-file.bmml%26bm%3BFolder-1_add-file.bmml%26bm%3BFolder-1_add-file.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C276%2C262%2C301%22%20href%3D%22Folder-1_add-page.bmml%22%20alt%3D%22Folder-1_add-page%22%20id%3D%2229_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C301%2C262%2C326%22%20href%3D%22Folder-1_add-file.bmml%22%20alt%3D%22Folder-1_add-file%22%20id%3D%2229_1%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C268%2C254%2C289%22%20href%3D%22Folder-1_add-page.bmml%22%20alt%3D%22Folder-1_add-page%22%20id%3D%2229_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C289%2C254%2C310%22%20href%3D%22Folder-1_add-file.bmml%22%20alt%3D%22Folder-1_add-file%22%20id%3D%2229_1%22/%3E%0A</map>
         <text>Select%20Resource%20Type%0A%28o%29%20Folder%0A%28%20%29%20Page%0A%28%20%29%20File</text>
       </controlProperties>
     </control>
     <control controlID="30" controlTypeID="com.balsamiq.mockups::VRule" x="290" y="259" w="-1" h="-1" measuredW="5" measuredH="100" zOrder="18" locked="false" isInGroup="-1"/>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextInput" x="303" y="281" w="396" h="-1" measuredW="79" measuredH="29" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextInput" x="303" y="281" w="396" h="-1" measuredW="79" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="303" y="256" w="396" h="25" measuredW="83" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="303" y="256" w="396" h="25" measuredW="81" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Folder%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="650" y="335" w="-1" h="-1" measuredW="49" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="650" y="335" w="-1" h="-1" measuredW="43" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Folder-1%26bm%3BFolder-1.bmml%26bm%3BFolder-1.bmml%26bm%3BFolder-1.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22622%2C305%2C671%2C333%22%20href%3D%22Folder-1.bmml%22%20alt%3D%22Folder-1%22%20id%3D%2233%22/%3E</map>
-        <text>Add</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22622%2C305%2C665%2C332%22%20href%3D%22Folder-1.bmml%22%20alt%3D%22Folder-1%22%20id%3D%2233%22/%3E</map>
+        <text>OK</text>
       </controlProperties>
     </control>
   </controls>
